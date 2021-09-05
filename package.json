@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "OpenWeather Api Automation",
   "author": "NVK PAVANKUMAR",
+  "keywords": [
+    "mocha",
+    "chai",
+    "supertest",
+    "mochawesome"
+  ],
   "dependencies": {
     "body-parser": "^1.17.1",
     "chai": "^3.5.0",
