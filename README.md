@@ -4,7 +4,9 @@ API Automation Platform to automate API's via JavaScript(Supertest + mocha + moc
 Steps to run the tests:
 
 1. Open Command Terminal where this project is downloaded
-2. npm test // to run tests
+2. Create Your Own api key at https://openweathermap.org/api
+3. Set up your OpenWeather API key as an environment variable called appid.
+4. npm test // to run tests
 
    Further Steps:
 
